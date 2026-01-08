@@ -10,9 +10,7 @@ li{list-style: none;}
 /* Navbar */
 .navbar{
     width: 100%;
-    max-width: 1600px;
     margin:auto;
-    right: 0;left: 0;
     top: 0;
     height: 75px;
     padding: 0px 120px;
